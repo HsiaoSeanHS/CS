@@ -1,6 +1,5 @@
-# CS
+# ==CSIE==
 ## Progress
----
 1. Linear Algebra:
 	- Ch1 (Week1)
 	- Ch2
