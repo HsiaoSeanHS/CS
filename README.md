@@ -1,3 +1,4 @@
+What is C.S.? Corrupt Secret.
 # ==CSIE==
 ## Progress
 1. Linear Algebra:
