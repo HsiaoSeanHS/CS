@@ -6,7 +6,15 @@ What is C.S.? Corrupt Secret.
 	- Ch2
 2. Computer Organization+Architecture:
 	- Ch1
-3. Data Structure:
-4. Discrete Mathematics:
-5. Operation System:
-6. Algorithm: 
+	- Ch2
+	- Ch3
+	- Ch4
+	- Ch5
+	- Ch6
+	- Ch7
+	- Ch8
+	- Ch9
+1. Data Structure:
+2. Discrete Mathematics:
+3. Operation System:
+4. Algorithm: 
